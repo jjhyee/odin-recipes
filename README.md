@@ -1,0 +1,1 @@
+The current project makes use of introductory html formatting, links, and images. Following completion, expected outcomes are : to be able to demonstrate understanding of html formatting, creating working links, displaying images
